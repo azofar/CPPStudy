@@ -147,6 +147,7 @@
     <ClCompile Include="Question_01.cpp" />
     <ClCompile Include="Question_02.cpp" />
     <ClCompile Include="Simple_Adder.cpp" />
+    <ClCompile Include="Simple_Adder_Practice.cpp" />
     <ClCompile Include="StringIO.cpp" />
     <ClCompile Include="공바꾸기.cpp" />
     <ClCompile Include="슬픈진실.cpp" />
